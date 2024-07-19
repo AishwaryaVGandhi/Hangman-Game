@@ -1,9 +1,11 @@
 𝐇𝐚𝐧𝐠𝐦𝐚𝐧 𝐆𝐚𝐦𝐞
 
 𝐃𝐞𝐬𝐜𝐫𝐢𝐩𝐭𝐢𝐨𝐧
+
 This project brings the classic Hangman game to life using Python. Hangman is a word-guessing game where players try to guess a hidden word by suggesting letters one at a time. Each incorrect guess results in a part of a stick figure being drawn, representing the gallows. The goal is to guess the word before the entire figure is completed.
 
 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐬
+
 𝟏) 𝐑𝐚𝐧𝐝𝐨𝐦 𝐖𝐨𝐫𝐝 𝐒𝐞𝐥𝐞𝐜𝐭𝐢𝐨𝐧: The game randomly selects a word from a list of flowers, providing a new challenge each time you play.
 
 𝟐) 𝐈𝐧𝐭𝐞𝐫𝐚𝐜𝐭𝐢𝐯𝐞 𝐆𝐚𝐦𝐞𝐩𝐥𝐚𝐲: Players can guess letters, and the game updates the display to show correct guesses and the remaining lives.
